@@ -1,15 +1,9 @@
 ---
-title: "Paper Title Number 1"
+title: "Simple yet effective analysis of waveguide mode symmetry: generalized eigenvalue approach based on Maxwell’s equations"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'We propose a simple yet effective approach, i.e., generalized eigenvalue approach based on Maxwell’s equations, for the analysis of waveguide mode symmetry. In this method, Maxwell’s equations are reformulated into generalized eigenvalue problems. The waveguide eigenmodes are completely determined by the generalized eigenvalue problem given by two matrices (M, N), where M is 6 × 6 waveguide Hamiltonian and N is a constant singular matrix. Based on this new approach, we discuss several symmetry operations and the corresponding symmetries including chiral, parity-time reversal, rotation symmetry, wherein the constraints of symmetry requirements on material parameters are derived in a much simpler way.'
+date: 2022-09-28
+venue: 'Optics Express'
+paperurl: 'https://doi.org/10.1364/OE.472148'
+citation: 'W. Guo, Y. Wu, Z. Xiong, Y. Jing, and Y. Chen, "Simple yet effective analysis of waveguide mode symmetry: generalized eigenvalue approach based on Maxwell’s equations," Opt. Express 30, 37910-37924 (2022).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
