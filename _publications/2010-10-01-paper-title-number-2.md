@@ -3,7 +3,7 @@ title: "Efficient and accurate numerical-projection of electromagnetic multipole
 collection: publications
 excerpt: ''
 date: 2023-08-29
-venue: 'Under review'
+venue: 'Minor revision'
 paperurl: ''
 citation: 'To be updated.'
 ---
