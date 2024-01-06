@@ -2,8 +2,8 @@
 title: "Transmission enhancement in coupled nanohole and nanodisk arrays for solar blind UV filter"
 collection: publications
 excerpt: ''
-date: 2023-10-17
-venue: 'Under review'
+date: 2024-01-05
+venue: 'Minor revision'
 paperurl: ''
 citation: 'To be updated.'
 ---
