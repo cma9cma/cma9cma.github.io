@@ -11,10 +11,7 @@ redirect_from:
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads! -->
 
-I got my B.Eng. degree in Optoelectronic Information in 2024 from Huazhong University of Science and Technology (HUST) in Wuhan, China. During undergraduate study, I was supervised by Prof. Yuntian Chen in <a href="https://github.com/HUST-CPO">HUST Computational Physical Optics Group</a>, where I got research experiences in efficient numerical methods for electromagnetic applications. I also participated in imaging simulations at CUHK. You can find my papers on <a href="{{site.author.googlescholar}}"> Google Scholar</a>. You may also see my <a href="https://github.com/cma9cma">GitHub</a> for open-source projects. 
-
-
-Currently I am a first-year PhD student at Department of ECE, National University of Singapore. 
+I obtained my B.Eng. degree from Huazhong University of Science and Technology (HUST) in 2024. My research interests center on Scientific Computing and Numerical Analysis, with a focus on developing efficient algorithms for complex physical systems. During my undergraduate studies, I worked on high-order numerical solvers for unstructured meshes and spectral methods for quasi-periodic systems. I also participated in computational imaging projects at CUHK, utilizing Neural Architecture Search (NAS) and randomized algorithms. Currently, I am a first-year PhD student at the National University of Singapore (NUS), investigating photonic AI architectures.
 
 <!-- A data-driven personal website
 ======
