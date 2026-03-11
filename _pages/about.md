@@ -11,7 +11,7 @@ redirect_from:
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads! -->
 
-I obtained my B.Eng. degree from Huazhong University of Science and Technology (HUST) in 2024. My research interests center on Scientific Computing and Numerical Analysis, with a focus on developing efficient algorithms for complex physical systems. During my undergraduate studies, I worked on high-order numerical solvers for unstructured meshes and spectral methods for quasi-periodic systems. I also participated in computational imaging projects at CUHK, utilizing Neural Architecture Search (NAS) and randomized algorithms. Currently, I am a first-year PhD student at the National University of Singapore (NUS), investigating photonic AI architectures.
+I obtained my B.Eng. degree from Huazhong University of Science and Technology (HUST) in 2024. My research interests center on Scientific Computing and Numerical Analysis, with a focus on developing efficient algorithms and programs for electromagnetics. During my undergraduate studies, I worked on numerical projection solvers on unstructured meshes and spectral methods for quasi-periodic systems (Moiré photonic crystals). I also participated in computational imaging projects at CUHK.
 
 <!-- A data-driven personal website
 ======
