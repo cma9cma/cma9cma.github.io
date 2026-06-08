@@ -1,0 +1,30 @@
+# jemdoc: nofooter
+# jemdoc: nodefaultcss
+# jemdoc: addcss{css/jemdoc.css}
+# jemdoc: addcss{css/myMiddle.css}
+# jemdoc: title{Wenfei Guo - The Chinese University of Hong Kong}
+
+~~~
+{}{img_left}{img/photo.jpg}{Wenfei Guo}{126}{}{}
+= Wenfei Guo
+
+*PhD Student (incoming 26 Fall)*
+
+[http://www.cse.cuhk.edu.hk Department of Computer Science and Engineering]\n
+[http://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong]\n
+\n
+*Email*: [mailto:hseldon888@outlook.com hseldon888@outlook.com]\n
+~~~
+
+== Biography
+
+I am an incoming PhD student in [http://www.cse.cuhk.edu.hk Department of Computer Science and Engineering], [http://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong], under the supervision of [https://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu]. Previously, I received my B.Eng. from School of Optical and Electronic Information, Huazhong University of Science and Technology.
+
+My research interests include Electronic Design Automation (EDA) and Design for Manufacturability (DFM).
+
+== Publications
+
+- Mingcheng Luo, Meirui Jiang, Bhavin J. Shastri, Nansen Zhou, *Wenfei Guo*, Jianmin Xiong, Dongliang Wang, Renjie Zhou, Chester Shu, Qi Dou, and Chaoran Huang. "Highly scalable machine vision enabled with meta-optics-based ultra-wide neural network." eLight, 6: 10, 2026.
+- Yihong Chen, *Wenfei Guo*, Lingyi Xu, and Jianjun Lai. "Transmission enhancement in coupled nanohole and nanodisk arrays for solar blind UV filter." Physica Scripta, 99(3): 035509, 2024.
+- *Wenfei Guo*, Zizhe Cai, Zhongfei Xiong, Weijin Chen, and Yuntian Chen. "Efficient and accurate numerical-projection of electromagnetic multipoles for scattering objects." Frontiers of Optoelectronics, 16: 48, 2023.
+- *Wenfei Guo*, Yantao Wu, Zhongfei Xiong, Yuhao Jing, and Yuntian Chen. "Simple yet effective analysis of waveguide mode symmetry: generalized eigenvalue approach based on Maxwell's equations." Optics Express, 30(21): 37910-37924, 2022.
